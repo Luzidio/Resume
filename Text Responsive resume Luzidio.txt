@@ -69,7 +69,7 @@ View
 WORK EXPERIENCE
 
 .resume__title .resume__data
-Web Developer Director
+Web Developer
 Adobe - Spain / 2012 - 2017
 I worked in the company providing experience 
 in the labor field and doing quality work.
@@ -108,15 +108,15 @@ View
 REFERENCES
 
 .resume__title .resume__data
-Ris Allison
+João Nuno Mabjaia
 CEO Industria Inc
 user@email.com / 987-654-3210
 
-Edyson Harris
+Enoque Bernardo Tembe Jr
 CEO Industria Inc
 user@email.com / 987-654-3210
 
-Anne Lort
+Helder Josué Mata
 CEO Industria Inc
 user@email.com / 987-654-3210
 
@@ -124,11 +124,11 @@ user@email.com / 987-654-3210
 ========== FOOTER ==========
 .footer__title .footer__info
 PHONE
-(0+) 987-654-321
+(+258) 84-2866-670
 
 EMAIL
 luzidiorafaell@gmail.com
 
 WEBSITE <a href="#">
-www.mywebsite.com
+https://luzidio-resume.netlify.app/
 k
