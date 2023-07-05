@@ -48,19 +48,19 @@ Figma
 EDUCATION
 
 .resume__title .resume__data
-Master In Web Developer
-Perú - University
-2012 - 2017
+Analista Programador de Aplicativos
+Centro de Desenvolvimento de Sistemas de Informação de Finanças (CEDSIF)
+August 2017 to July 2019
 View
 
-Fontend Developer
-Spain - University
-2017 - 2022
+Formação em Comunicação Visual e Liderança (CVL)
+Associação dos Estudantes do Instituo Superior De Relações Internacionais - AEISRI
+21 and 22 - September
 View
 
-Graphic Designer
-Perú - Institute
-2019 - 2023
+ Licenciatura em Desenvolvimento de Software
+Universidade São Tomás de Moçambique - USTM
+2020 +
 View
 
 
