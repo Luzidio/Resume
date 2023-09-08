@@ -1,3 +1,5 @@
+/*impors*/
+@import 'global.css';
 /*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
 
@@ -79,10 +81,19 @@ img {
 }
 
 /*=============== THEME ===============*/
-
+.change-theme{
+  font-size: 1.25rem;
+  color: var(--title-color);
+  cursor: pointer;
+}
 
 /*========== Variables Dark theme ==========*/
-
+body.dark-theme{
+  --title-color: hsl(40, 48%, 90%);
+  --text-color: hsl(40, 12%, 70%);
+  --body-color: hsl(40, 12%, 16%);
+  --container-color: hsl(40, 20%, 8%);
+}
 
 /*========== 
 	Color changes in some parts of 
@@ -214,7 +225,10 @@ img {
 }
 
 /* Active link */
-
+.active-link:hover::after{
+  opacity: 1;
+  transform: translateY(-4px);
+}
 
 
 /*=============== HOME ===============*/
@@ -409,7 +423,9 @@ img {
 }
 
 /* Show Scroll Up */
-
+.show-scroll{
+  bottom: 7rem;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
