@@ -28,6 +28,8 @@ body {
   background-color: var(--container-color);
   color: var(--text-color);
   transition: background .4s;
+  display: flex;
+  justify-content: center;
 }
 
 h1, h2, h3, h4 {
